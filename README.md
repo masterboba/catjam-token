@@ -1,3 +1,1 @@
-# CatJam Token
-
-A MEOW step ahead
+A repo for a simple meme token
